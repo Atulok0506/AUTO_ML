@@ -4,7 +4,7 @@
 
 ![Programming Language](https://img.shields.io/badge/Python-3.10-orange)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
-![Deploy](https://img.shields.io/badge/AWS-fcba03)
+![Cloud](https://img.shields.io/badge/AWS-fcba03)
 
 ## Overview
 AutoStreamML is an automated machine learning (AutoML) application built using Streamlit. It enables users to easily upload datasets, perform exploratory data analysis (EDA) with data profiling, and train machine learning models for regression or classification tasks. The application supports automatic preprocessing, model selection, hyperparameter tuning, and model saving. Users can conveniently download the trained models for deployment. AutoStreamML simplifies the machine learning pipeline, making it accessible to users without extensive programming knowledge
