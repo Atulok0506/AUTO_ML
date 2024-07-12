@@ -1,6 +1,9 @@
 # AutoStreamML
 
 ![Auto_ML](https://github.com/Atulok0506/Auto_ML/blob/main/auto_ml_1.png)
+![Auto_ML](https://github.com/Atulok0506/AutoStreamML/blob/main/Screenshot%202024-07-12%20103307.png)
+![Auto_ML](https://github.com/Atulok0506/AutoStreamML/blob/main/Screenshot%202024-07-12%20104232.png)
+
 
 ![Programming Language](https://img.shields.io/badge/Python-3.10-orange)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
